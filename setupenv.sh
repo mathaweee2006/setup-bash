@@ -9,4 +9,4 @@ pip install torch torchvision
 #install git
 sudo apt install git-all
 
-git clone
+git clone https://github.com/bowenc0221/panoptic-deeplab.git
